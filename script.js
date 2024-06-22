@@ -91,7 +91,7 @@ function swiperFunction(){
 
 
 function menuAnimation(){
-    let menu = document.querySelector("nav h3");
+let menu = document.querySelector("nav h3");
 let full = document.querySelector("#full-scr");
 let image = document.querySelector("#page1 img")
 let flag = 0;
